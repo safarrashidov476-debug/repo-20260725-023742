@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tts-engine xmlns:android="http://schemas.android.com/apk/res/android">
+    <voice android:name="uzb" />
+    <voice android:name="rus" />
+    <voice android:name="eng" />
+</tts-engine>
